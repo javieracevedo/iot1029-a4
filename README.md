@@ -1,1 +1,3 @@
-# iot1029-a4
+# iot1029-a4 Grade Converter ASM
+
+GradeConverter: An ARM assembly program that converts a percentage grade to a letter grade and displays a corresponding message. The program takes the percentage grade as a command-line argument, uses constants for comparison grades, and employs conditional branches for efficient decision-making. Letter grades (A, B, C, or F) are printed to the terminal along with personalized messages based on the percentage grade. The code is well-documented and extensively tested for accuracy and reliability. A flexible solution suitable for educational or grading applications.
