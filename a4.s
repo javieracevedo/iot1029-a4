@@ -78,8 +78,6 @@ exit_success:
         .asciz "Congratulations, you got a C.\n"
     fmessage:
         .asciz "Sorry, you got an F.\n"
-    result:
-        .word 0
 
 alen = 32
 blen = 32
